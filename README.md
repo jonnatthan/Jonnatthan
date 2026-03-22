@@ -1,10 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,059669,10b981&height=200&section=header&text=Jonnatthan%20Villa%20Franco&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Tecnólogo%20en%20Calidad%20%7C%20Desarrollador%20Web%20%7C%20Bello%2C%20Antioquia%20🇨🇴&descAlignY=58&descSize=15&animation=fadeIn"/>
 <br/>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-jonnatthan--villafranco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portafolio](https://img.shields.io/badge/Portafolio-jonnatthan.github.io-059669?style=for-the-badge&logo=firefox&logoColor=white)
-![LabControl](https://img.shields.io/badge/🧪_LabControl_Pro-Ver_proyecto-10b981?style=for-the-badge)
-![Email](https://img.shields.io/badge/Email-dydjonnatthan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 </div>
 ---
 👋 Sobre mí
@@ -39,14 +36,12 @@ Característica	Detalle
 📌 Ver repositorio completo →
 ---
 🛠️ Stack Tecnológico
-<div align="center">
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-v20_LTS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img width="1915" height="856" alt="Captura de pantalla 2026-03-22 170148" src="https://github.com/user-attachments/assets/d90e06b8-43ef-469b-9466-af6406a183e3" />
+<img width="787" height="826" alt="Captura de pantalla 2026-03-22 170108" src="https://github.com/user-attachments/assets/9bccb52e-f8ff-4646-a7d6-d60bf3c844a2" />
+<img width="1905" height="862" alt="Captura de pantalla 2026-03-22 170253" src="https://github.com/user-attachments/assets/803fb084-9816-4624-87d0-654adc5dd310" />
+<img width="1917" height="860" alt="Captura de pantalla 2026-03-22 170225" src="https://github.com/user-attachments/assets/f63d097b-61d6-4624-9232-ba38f10709e8" />
+<img width="1122" height="820" alt="Captura de pantalla 2026-03-22 170207" src="https://github.com/user-attachments/assets/61d054e8-9561-4ca4-9ac1-1c9652304ebf" />
+
 </div>
 Herramientas industriales: `LIMScol` · `iSOLUTION` · `BPM` · `Batch Records` · `ISO/IEC 17025` · `ALCOA+`
 ---
