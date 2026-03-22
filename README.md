@@ -57,6 +57,6 @@ Construir soluciones reales para la industria farmacéutica.
 
 ## 📫 Contacto
 
-* LinkedIn
+* LinkedIn: www.linkedin.com/in/jonnatthan-villa-franco
 * Email: [dydjonnatthan@gmail.com](mailto:dydjonnatthan@gmail.com)
 
